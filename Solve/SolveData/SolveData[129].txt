@@ -1,0 +1,1 @@
+A B B # C B B # D D E E F F G G H H I I:B>R A>R C>U D>U E>L E>L B>D A>R A>R C>R C>R D>U E>U F>U G>L G>L B>D C>D D>R A>D D>R E>U C>L C>L A>L A>L B>U G>R G>R F>D C>D A>D E>D D>L D>L B>U A>R A>R C>R C>R F>U G>L G>L A>D C>D B>D D>R D>R E>U F>U G>U H>U I>L I>L A>D C>D B>D F>R F>R G>U H>U I>U C>L C>L A>L A>L B>D H>R H>R I>U A>U A>L B>L

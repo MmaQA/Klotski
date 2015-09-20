@@ -1,0 +1,6591 @@
+﻿No.1
+---
+横刀立马
+---
+A B B C
+A B B C
+D E E F
+D G H F
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.2
+---
+指挥若定
+---
+A B B C
+A B B C
+D E E F
+G H I J
+G # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.3
+---
+将拥曹营
+---
+# A A #
+B A A C
+B D E C
+F D E G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.4
+---
+齐头并进
+---
+A B B C
+A B B C
+D E F G
+H I I J
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.5
+---
+兵分三路
+---
+A B B C
+D B B E
+D F F E
+G H I J
+G # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.6
+---
+雨声淅沥
+---
+A B B C
+A B B D
+E F F G
+E H # G
+I H # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.7
+---
+左右布兵
+---
+A B B C
+D B B E
+F G H I
+F G H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.8
+---
+桃花园中
+---
+A B B C
+D B B E
+D F G E
+H F G I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.9
+---
+一路进军
+---
+A B B C
+A B B D
+E F G H
+E F G I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.10
+---
+一路顺风
+---
+A B B C
+A B B D
+E F F G
+E H I G
+# J I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.11
+---
+围而不歼
+---
+A B B C
+A B B D
+E F F G
+E H I J
+# H I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.12
+---
+捷足先登
+---
+A B B C
+D B B E
+# F F #
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.13
+---
+插翅难飞
+---
+A B B C
+A B B D
+E E F G
+H I I J
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.14
+---
+守口如瓶1
+---
+A B B C
+A B B C
+D E # F
+G E # H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.15
+---
+守口如瓶2
+---
+A B B C
+D B B E
+D F # E
+G F # H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.16
+---
+双将挡路
+---
+A B B C
+A B B D
+E F F G
+E H H G
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.17
+---
+横马当关
+---
+A B B C
+A B B C
+D D E E
+F G # H
+I G # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.18
+---
+层层设防1
+---
+A B B C
+A B B C
+D E E F
+G H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.19
+---
+层层设防2
+---
+A B B C
+D B B E
+D F F E
+G H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.20
+---
+兵挡将阻
+---
+A B B C
+D B B C
+E F F G
+E H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.21
+---
+堵塞要道
+---
+A B B C
+D B B E
+F G H H
+F G I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.22
+---
+瓮中之鳖
+---
+A B B C
+A B B C
+D D E E
+F G G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.23
+---
+层峦叠嶂
+---
+A B B C
+A B B C
+D E E F
+G G H H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.24
+---
+水泄不通
+---
+A B B C
+A B B D
+E E F F
+G G H H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.25
+---
+四路进兵
+---
+A B B C
+D B B E
+F # G G
+F # H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.26
+---
+入地无门
+---
+A B B C
+A B B D
+E F F G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.27
+---
+勇闯五关
+---
+A B B C
+D B B E
+F F G G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.28
+---
+一横最难解的布局
+---
+A B B C
+A B B D
+E E F D
+G H F I
+G # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.29
+---
+一横最容易解的布局1
+---
+A B B C
+D B B E
+# F F #
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.30
+---
+一横最容易解的布局2
+---
+A B B C
+D B B E
+D F G E
+H I I J
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.31
+---
+二横最难解的布局
+---
+A B B C
+D B B C
+E E F G
+H I F G
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.32
+---
+二横最容易解的布局
+---
+A B B C
+D B B C
+E F G G
+E F H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.33
+---
+三横最难解的布局
+---
+A B B C
+D B B E
+D F F E
+G H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.34
+---
+三横最容易解的布局
+---
+A B B C
+D B B E
+F G H H
+F G I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.35
+---
+四横最难解的布局
+---
+A B B C
+A B B D
+E F F G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.36
+---
+四横最易解的布局
+---
+A B B C
+D B B E
+D F G G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.37
+---
+乱石崩云
+---
+A B B C
+D B B C
+D E F F
+G E H I
+J # # I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.38
+---
+背水列阵
+---
+A B B C
+A D E C
+# F F #
+G F F H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.39
+---
+四面楚歌
+---
+A B C D
+A E E D
+F E E G
+H I I G
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.40
+---
+前呼后拥
+---
+A B C C
+D D C C
+E E F F
+G G H H
+# # I J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.41
+---
+兵临曹营
+---
+A B B C
+D B B E
+F G G H
+F I J H
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.42
+---
+五将逼宫
+---
+A A B B
+C D D E
+C D D E
+F G G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.43
+---
+云遮雾障
+---
+A B B C
+A B B C
+D E E F
+D G G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.44
+---
+iPhone关卡1
+---
+A B B C
+A B B C
+D E F G
+H I I J
+K # # L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.45
+---
+三军联防
+---
+A A B C
+A A B C
+D D E E
+F G G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.46
+---
+前挡后阻
+---
+A A B B
+A A C D
+E F C G
+E F H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.47
+---
+近在咫尺
+---
+A B C D
+E B C D
+F F G H
+I I J J
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* J J *
+* J J *
+===
+No.48
+---
+走投无路
+---
+A B B C
+A B B C
+D E F G
+D E H G
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.49
+---
+小燕出巢
+---
+A B B C
+A B B C
+D D E E
+F G G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.50
+---
+比翼横空
+---
+A A B B
+C C B B
+D D E E
+F # G H
+I # J H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.51
+---
+夹道藏兵
+---
+A A B C
+A A D C
+E E F F
+G G H H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.52
+---
+屯兵东路
+---
+A A B C
+A A B C
+D D E F
+G H I J
+G H # #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.53
+---
+四将连关
+---
+A A B B
+A A C C
+D E F F
+D E G H
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.54
+---
+近在咫尺2
+---
+A B C D
+A B E F
+G G E H
+I I J J
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* J J *
+* J J *
+===
+No.55
+---
+峰回路转
+---
+A B C D
+E E F D
+E E F G
+# H H G
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.56
+---
+井底之蛙
+---
+A B B C
+D E E F
+D E E F
+G H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.57
+---
+插翅难飞2
+---
+A B B C
+D E E F
+D E E F
+G # # H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.58
+---
+似远实近
+---
+A A B B
+A A C C
+# # D E
+F G H I
+F G J I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.59
+---
+近在咫尺3
+---
+# A B C
+D A E F
+D G E #
+H H I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.60
+---
+五横最难的开局
+---
+A A B C
+A A D D
+E E F F
+G H H #
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.61
+---
+小兵探路
+---
+A A B C
+A A # C
+# D E E
+F D G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.62
+---
+前后夹攻
+---
+# A B C
+D A # C
+E F G G
+E H G G
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.63
+---
+单兵种的没落
+---
+A B C D
+A B E F
+G G E F
+G G H I
+# J H #
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.64
+---
+欲罢不能
+---
+# A A B
+C A A B
+D E E F
+D G # F
+H G I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.65
+---
+横行之将
+---
+A A B C
+A A D D
+E E F #
+G H I I
+# H J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.66
+---
+列队欢送
+---
+A B C D
+A B C E
+F F G H
+I I J J
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* J J *
+* J J *
+===
+No.67
+---
+列队欢送2
+---
+# A B C
+# A B C
+D E F G
+H H I I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.68
+---
+百花盛开
+---
+A B C D
+A B E D
+# # F G
+H H I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.69
+---
+行百里者半九十
+---
+A A B C
+D E B F
+# G G F
+H G G I
+J J # I
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.70
+---
+小汽车
+---
+A B C #
+A D E E
+# D E E
+F G H H
+F I I J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.71
+---
+单身的小兵
+---
+# A B C
+D D B E
+D D F E
+G H H I
+# J J I
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.72
+---
+以退为进
+---
+# A B C
+D D E F
+D D E F
+G G H I
+J J H #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.73
+---
+一字长蛇阵
+---
+# A A B
+C A A D
+C E F F
+G H I I
+G # J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.74
+---
+一字长蛇阵2
+---
+A A B C
+A A D E
+F F D G
+H H I #
+J J I #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.75
+---
+扰敌之策
+---
+# A A B
+# A A C
+D E F G
+H I F G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.76
+---
+左兵右将
+---
+A A B C
+A A B C
+D E F F
+G H I J
+# # I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.77
+---
+星罗棋布
+---
+A B B C
+D E E F
+D G G F
+H G G I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.78
+---
+虚与委蛇
+---
+A A B C
+A A # C
+D # E E
+F G H H
+I G J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.79
+---
+虚与委蛇2
+---
+A A B C
+A A D E
+# # F E
+G G F H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.80
+---
+层层设防3
+---
+A B B C
+D B B C
+E F F G
+H I I G
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.81
+---
+奖杯
+---
+A A B B
+C D D E
+C D D E
+# F F #
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.82
+---
+气势汹汹
+---
+A A B B
+C C B B
+D D E F
+# # E F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.83
+---
+近在咫尺4
+---
+A B C D
+A B E F
+G H I I
+G H J J
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* J J *
+* J J *
+===
+No.84
+---
+数字系列: 0
+---
+A B B C
+D B B E
+D # # F
+G H H F
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.85
+---
+数字系列: 1
+---
+# A B #
+C C D E
+C C F E
+G G F H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.86
+---
+数字系列: 2
+---
+A B B C
+# B B D
+E F F D
+E G G #
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.87
+---
+数字系列: 3
+---
+A B B C
+# B B D
+E F F D
+# G H H
+I G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.88
+---
+数字系列: 4
+---
+A # B B
+A C B B
+D D E F
+G G E H
+# I I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.89
+---
+数字系列: 5
+---
+A B B C
+D B B #
+D E E F
+# G G F
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.90
+---
+数字系列: 6
+---
+A A B C
+A A B #
+D E F F
+G # H H
+G I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.91
+---
+数字系列: 7
+---
+A A B C
+A A D E
+F F G E
+# H G I
+# J J I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.92
+---
+数字系列: 8
+---
+A B C D
+A # E D
+F G H H
+F # H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.93
+---
+数字系列: 9
+---
+A B C C
+A # C C
+D D E F
+# G G H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.94
+---
+穷途末路
+---
+A A # #
+A A B C
+D E F C
+G G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.95
+---
+砝码
+---
+A B C D
+# E E #
+F G G H
+F G G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.96
+---
+瓊瑤敲碎
+---
+# A A B
+C A A D
+E E # D
+F G H H
+F I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.97
+---
+馮京馬涼
+---
+A A # B
+A A C D
+E F G G
+E H H I
+J J # I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.98
+---
+馮京馬涼2
+---
+A B B C
+# B B D
+E # F F
+E G G H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.99
+---
+花車
+---
+# A A #
+B A A C
+B D D C
+E E F F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.100
+---
+離而不坎
+---
+A B B C
+A B B C
+D D # E
+F G H H
+I I # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.101
+---
+孤雁南飛
+---
+A B B C
+A B B C
+D E F F
+G H H #
+I I # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.102
+---
+高廈一零一
+---
+A A B C
+A A B D
+E F F G
+E H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.103
+---
+暗渡陳倉
+---
+A B C D
+E F F D
+E F F G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.104
+---
+困於赤紱
+---
+A # B C
+A D D C
+E D D #
+F F G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.105
+---
+大渡橋橫鐵索寒
+---
+# A A #
+B A A C
+B D D E
+F G G H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.106
+---
+魚游春水
+---
+A A B #
+A A C D
+E F G G
+E H H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.107
+---
+古堡藏龍
+---
+A B C D
+E F C D
+G G # H
+G G # H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.108
+---
+歧路亡羊
+---
+A B C C
+D B C C
+E E F G
+H H F I
+J # # I
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.109
+---
+陳兵西陲
+---
+A B B C
+D B B C
+E F F G
+H # I G
+J J I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.110
+---
+水滸聚義
+---
+A B C D
+A # C D
+# E E F
+G E E H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.111
+---
+山在虛無縹緲間
+---
+A B # C
+D B # E
+F G G H
+F G G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.112
+---
+相看兩不厭
+---
+A B # C
+A B # C
+D E E F
+G E E H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.113
+---
+互不相讓
+---
+A B C C
+A D D #
+E D D F
+# G G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.114
+---
+胡馬窺江
+---
+A A # B
+# C C B
+D C C E
+F F G G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.115
+---
+馬首是瞻
+---
+A A B C
+D D E E
+F G E E
+# G H H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.116
+---
+異地同心
+---
+A A B C
+D E F F
+# E F F
+G G H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.117
+---
+十八步
+---
+A B B C
+D B B E
+F G H I
+J K L M
+N # # O
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.118
+---
+DAISY
+---
+A B B C
+A B B C
+D E F G
+H I J K
+L # # M
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.119
+---
+VIOLET
+---
+A B B C
+A B B C
+D E F G
+D H I J
+K # # L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.120
+---
+POPPY
+---
+A B B C
+A B B C
+D E E F
+G H I J
+K # # L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.121
+---
+PANSY
+---
+A B B C
+A B B C
+D E F G
+D H I G
+J # # K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.122
+---
+SNOWDROP
+---
+A B B C
+A B B C
+D E E F
+D G H I
+J # # K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.123
+---
+四路進兵2
+---
+A B B #
+A B B #
+C D E F
+G G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.124
+---
+數字系列4-2
+---
+A # B C
+D D E C
+D D F G
+H H F G
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.125
+---
+四面八方
+---
+# A A #
+B C C D
+E F F G
+E F F G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.126
+---
+牛气冲天
+---
+A # # B
+C C D D
+E F F G
+E F F G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.127
+---
+拳头
+---
+A B B C
+D B B C
+E F G G
+H H I J
+# # I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.128
+---
+匹马嘶风
+---
+A A B C
+A A D E
+F F # #
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.129
+---
+伏羲八卦:天天乾
+---
+A B B #
+C B B #
+D D E E
+F F G G
+H H I I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.130
+---
+伏羲八卦:地地坤
+---
+A B B #
+A B B #
+C D E F
+G H I J
+K L M N
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.131
+---
+伏羲八卦:水水坎
+---
+A B B #
+A B B #
+C D E F
+G G H H
+I J K L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.132
+---
+伏羲八卦:火火离
+---
+A B B #
+C B B #
+D D E E
+F G H I
+J J K K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.133
+---
+伏羲八卦:雷雷震
+---
+# A A #
+B A A C
+D E F G
+H I J K
+L L M M
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.134
+---
+伏羲八卦:山山艮
+---
+# # A A
+B B A A
+C C D D
+E F G H
+I J K L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.135
+---
+伏羲八卦:风风巽
+---
+# # A A
+B B A A
+C C D D
+E E F F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.136
+---
+伏羲八卦:泽泽兑
+---
+# A A #
+B A A C
+D E F G
+H H I I
+J J K K
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.137
+---
+伏羲八卦:天地否
+---
+# # A A
+B B A A
+C C D E
+F F G H
+I I J K
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.138
+---
+伏羲八卦:地天泰
+---
+# A A #
+B A A C
+D E F F
+G H I I
+G H J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.139
+---
+伏羲八卦:天水讼
+---
+A B B #
+A B B #
+C C D E
+F F G G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.140
+---
+伏羲八卦:火天大有
+---
+A B B #
+C B B #
+D D E E
+F G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.141
+---
+伏羲八卦:天雷无妄
+---
+A B B #
+A B B #
+C C D E
+F F G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.142
+---
+伏羲八卦:天山遯
+---
+A B B #
+C B B #
+D D E E
+F F G H
+I I G J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.143
+---
+伏羲八卦:山天大畜
+---
+# # A A
+B B A A
+C C D D
+E F G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.144
+---
+伏羲八卦:风天小畜
+---
+A B B #
+C B B #
+D D E E
+F F G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.145
+---
+伏羲八卦:泽天夬
+---
+A B B #
+C B B #
+D E F F
+G G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.146
+---
+伏羲八卦:水地比
+---
+# # A A
+B B A A
+C D E F
+G G H I
+J K L M
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.147
+---
+伏羲八卦:地火明夷
+---
+A B B #
+A B B #
+C D E E
+F G H I
+F G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.148
+---
+伏羲八卦:火地晋
+---
+# A A #
+B A A C
+D D E F
+G H I J
+K K L M
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.149
+---
+伏羲八卦:地雷复
+---
+# A A #
+B A A C
+D E F G
+H I J K
+L M N N
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.150
+---
+伏羲八卦:雷地豫
+---
+# A A #
+B A A C
+D E F G
+D E F G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.151
+---
+伏羲八卦:地山谦1
+---
+A B B #
+C B B #
+D E F F
+G H I J
+K L M N
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.152
+---
+伏羲八卦:地山谦2
+---
+A B B #
+C B B #
+D E F F
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.153
+---
+伏羲八卦:山地剥
+---
+# # A A
+B B A A
+C C D E
+F G H I
+J K L M
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.154
+---
+伏羲八卦:地风升
+---
+A B B #
+A B B #
+C D E E
+F G H H
+F G I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.155
+---
+伏羲八卦:风地观
+---
+# # A A
+B B A A
+C C D E
+F F G H
+I J K L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.156
+---
+伏羲八卦:地泽临
+---
+A B B #
+A B B #
+C D E F
+G H I I
+G H J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.157
+---
+伏羲八卦:泽地萃
+---
+A B B #
+A B B #
+C D E F
+G G H I
+J J K L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.158
+---
+伏羲八卦:水火既济
+---
+# A A #
+B A A C
+D E F F
+G G H I
+J K L L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.159
+---
+伏羲八卦:水雷屯
+---
+A B B #
+A B B #
+C D E F
+G G H I
+J K L L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.160
+---
+伏羲八卦:雷水解
+---
+A B B #
+A B B #
+C D E F
+C D G G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.161
+---
+伏羲八卦:水山蹇
+---
+A B B #
+A B B #
+C D E E
+F F G H
+I J K L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.162
+---
+伏羲八卦:山水蒙
+---
+A B B #
+A B B #
+C C D E
+F G H H
+F G I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.163
+---
+伏羲八卦:风水涣
+---
+A B B #
+A B B #
+C C D E
+F F G G
+H I J K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.164
+---
+伏羲八卦:水泽节
+---
+A B B #
+C B B #
+D E F G
+H H I I
+J K L L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.165
+---
+伏羲八卦:火雷噬嗑
+---
+A B B #
+A B B #
+C C D E
+F G H I
+J J K K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.166
+---
+伏羲八卦:火山旅
+---
+A B B #
+C B B #
+D D E E
+F G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.167
+---
+伏羲八卦:山火贲
+---
+A B B #
+C B B #
+D D E E
+F G H I
+J K L L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.168
+---
+伏羲八卦:风火家人
+---
+# # A A
+B B A A
+C C D D
+E E F G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.169
+---
+伏羲八卦:火泽睽
+---
+A B B #
+A B B #
+C C D E
+F G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.170
+---
+伏羲八卦:雷山小过
+---
+A B B #
+A B B #
+C D E E
+C D F G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.171
+---
+伏羲八卦:山雷颐
+---
+A B B #
+A B B #
+C C D E
+F G H I
+F G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.172
+---
+伏羲八卦:雷风恒
+---
+# A A #
+B A A C
+D E F F
+G H I I
+J J K L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.173
+---
+伏羲八卦:风雷益
+---
+A B B #
+C B B #
+D D E F
+G G E F
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.174
+---
+伏羲八卦:雷泽归妹
+---
+A B B #
+A B B #
+C D E F
+G H I I
+J J K K
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.175
+---
+伏羲八卦:风山渐
+---
+# # A A
+B B A A
+C C D D
+E E F G
+H I J K
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.176
+---
+伏羲八卦:山泽损
+---
+# A A #
+B A A C
+D D E F
+G H I I
+J K L L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.177
+---
+伏羲八卦:泽山咸
+---
+# A A #
+B A A C
+D E F F
+G G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.178
+---
+伏羲八卦:风泽中孚
+---
+A B B #
+A B B #
+C C D E
+F F G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.179
+---
+颠倒96(陰)
+---
+A B B C
+D E F C
+G G F H
+G G # H
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.180
+---
+颠倒96(陽)
+---
+# A B B
+C C # D
+C C E D
+F G E H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.181
+---
+獨闢蹊徑
+---
+A A B #
+A A C D
+E F G G
+E H I I
+# H J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.182
+---
+三羊开泰1
+---
+A B B C
+D B B E
+F G G H
+F I I H
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.183
+---
+三羊开泰2
+---
+A B B C
+D B B E
+D F G E
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.184
+---
+三羊开泰3
+---
+A B B C
+D B B E
+D F F E
+G G H H
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.185
+---
+顺时风车
+---
+A A # B
+A A C B
+D D E F
+G # E H
+G I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.186
+---
+逆时风车
+---
+A A # B
+A A # B
+C D D E
+C F G H
+I I G J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.187
+---
+一横定式A
+---
+A B B C
+A B B D
+E F G H
+E I G H
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.188
+---
+一橫定式B
+---
+A B B C
+A B B D
+# # E E
+F G H I
+F J H I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.189
+---
+一橫定式C
+---
+A A B C
+A A D C
+# # E E
+F G H I
+J G H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.190
+---
+一橫定式D
+---
+A A B C
+A A D D
+# # E F
+G H I F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.191
+---
+二橫定式A
+---
+A A # B
+A A # C
+D E F F
+D E G H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.192
+---
+二橫定式B
+---
+A A # B
+A A # C
+D E F F
+D G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.193
+---
+三橫定式A
+---
+A A # B
+A A # C
+D E F F
+D G G H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.194
+---
+三橫定式B
+---
+A A # B
+A A # C
+D E F F
+D G G H
+I J J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.195
+---
+四橫定式A
+---
+A B C D
+E B # #
+F F G G
+H H G G
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.196
+---
+四橫定式B
+---
+A B C C
+D D C C
+E F G G
+E H I I
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.197
+---
+四橫定式C
+---
+A A B B
+C D B B
+C E F F
+# G H H
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.198
+---
+四橫定式D
+---
+A B C C
+A D E F
+G G H H
+I I H H
+J J # #
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.199
+---
+四橫定式E
+---
+A B C C
+D D E E
+F G E E
+F H I I
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.200
+---
+殊途同归
+---
+A B C C
+A B C C
+D # E #
+F G G H
+F I J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.201
+---
+勿入歧途
+---
+A B B C
+A B B C
+D E F #
+D G G H
+# I J H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.202
+---
+一夫当关
+---
+A B C D
+A B C D
+# E E #
+F E E G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.203
+---
+节节高升
+---
+A # B B
+A C B B
+D C E #
+F G E H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.204
+---
+六将之近在咫尺A
+---
+A A B B
+C D E F
+C D G G
+H H I I
+H H # #
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.205
+---
+六将之近在咫尺B
+---
+A B B C
+A D E C
+F D E #
+G G H H
+G G # #
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.206
+---
+六将之步步高1
+---
+A A # B
+A A C B
+D E C #
+F E G G
+F H H #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.207
+---
+六将之步步高2
+---
+A A B C
+A A D C
+# E D #
+F E G G
+F # H H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.208
+---
+六将守关1
+---
+# # # A
+B B C D
+B B C D
+E F G G
+E F H H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.209
+---
+六将守关2
+---
+# # # A
+B B C A
+B B C D
+E F G G
+E F H H
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.210
+---
+六将守关3
+---
+A # B C
+A D D C
+# D D #
+E F G G
+E F H H
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.211
+---
+六将守关4
+---
+A A # #
+A A B B
+C D E F
+G G E F
+H H I I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.212
+---
+六将守关5
+---
+# # # A
+B B C A
+B B C D
+E E F G
+H H F G
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.213
+---
+六将守关6
+---
+# # # A
+B C C D
+B C C D
+E F F G
+E H H G
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.214
+---
+六将守关7
+---
+A # # #
+A B B C
+D B B C
+E E F G
+H H F G
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.215
+---
+六将之跋山涉水
+---
+# A B C
+D D B C
+D D # E
+F G G E
+F # H H
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.216
+---
+換離為兌
+---
+A A B C
+D D E E
+F G E E
+H H I J
+# # I J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.217
+---
+寓巧於拙
+---
+A A B C
+A A D D
+# E E F
+G H H I
+G # J I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.218
+---
+摇旗放曹
+---
+A B B C
+D B B E
+F G H I
+F J K I
+L # # M
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.219
+---
+轮回
+---
+A B C C
+A D D E
+F D D G
+H H I G
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.220
+---
+殊途同归I
+---
+A A B C
+A A B C
+# D # E
+F G H H
+F G I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.221
+---
+殊途同归II
+---
+A B B C
+D B B C
+D E F G
+H E # #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.222
+---
+殊途同归III
+---
+A B B C
+A B B D
+E E F D
+G G # #
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.223
+---
+殊途同归IV
+---
+A B C C
+D E F F
+# E F F
+# G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.224
+---
+曹13
+---
+A B B C
+D B B E
+F # # G
+F H I J
+K L M J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.225
+---
+百步歧形
+---
+# A B C
+D A B C
+# E F G
+H H I I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.226
+---
+四兵同心
+---
+A B C #
+D E C F
+G G H F
+G G H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.227
+---
+生机盎然
+---
+A A # B
+A A C B
+# D E F
+G G E H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.228
+---
+旭日东升
+---
+A B C D
+E F F G
+H F F I
+J K L M
+# N N #
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.229
+---
+退一步海阔天空
+---
+A B B C
+D E E F
+D E E F
+G H I J
+G # # J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.230
+---
+三七二十一
+---
+A B B C
+D B B E
+D F # E
+G H I J
+G # K J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.231
+---
+高处不胜寒
+---
+# A A #
+B A A C
+B D E C
+F G G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.232
+---
+步步高3
+---
+A A B C
+A A D C
+# E D F
+G G H F
+# I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.233
+---
+换位思考
+---
+A B B C
+D B B E
+D F G H
+I J K L
+I # # L
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.234
+---
+水中倒影之实
+---
+# A A B
+C D D E
+C D D #
+F G H H
+F G I J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.235
+---
+水中倒影之像
+---
+A B C D
+A B E E
+F G G #
+F G G H
+# I I J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.236
+---
+进退维谷
+---
+A B # C
+D D E F
+D D E F
+G G # H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.237
+---
+不谋而合
+---
+A B C #
+D D C E
+D D F G
+H H F G
+I I # J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.238
+---
+左右逢源
+---
+A A B B
+A A C D
+# E F #
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.239
+---
+进退自如
+---
+A B C #
+D B C E
+F F G H
+F F G #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.240
+---
+百步穿杨
+---
+A # B B
+A C B B
+D D E F
+G G H F
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.241
+---
+七上八下(上)
+---
+A B C D
+A B C E
+F F G G
+F F # #
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.242
+---
+七上八下(下)
+---
+A A B C
+D D # #
+D D E E
+F G H I
+F G H J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.243
+---
+别无选择
+---
+A A B #
+A A B #
+C D E E
+F D G H
+F I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.244
+---
+大乔小乔(上)
+---
+A B C D
+A B E E
+F G E E
+H I J J
+H I # #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.245
+---
+大乔小乔(下)
+---
+A B # #
+A B C C
+D E F F
+G H F F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.246
+---
+旋转让道
+---
+# A B C
+D A B E
+D F F G
+H F F #
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.247
+---
+兵随将转
+---
+A A B C
+A A D C
+E F D G
+E H I I
+# H J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.248
+---
+新鸿门宴Ⅰ
+---
+A B B C
+D B B C
+D E F G
+# E F #
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.249
+---
+新鸿门宴Ⅱ
+---
+A B B C
+A B B C
+D D E E
+# F G #
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.250
+---
+全民皆兵
+---
+A A B #
+A A C D
+E F G H
+I J K L
+M N O #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.251
+---
+三顾茅庐
+---
+A A B C
+A A B C
+D E F #
+D G H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.252
+---
+7系列:七步成诗
+---
+A B # C
+A B # C
+D E F F
+D E F F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.253
+---
+7系列:整齐排列
+---
+A B C D
+E B C F
+E G H F
+I I # #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.254
+---
+7系列:倒扣杯中
+---
+A A B B
+# C D #
+E F F G
+E F F G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.255
+---
+7系列:飘在空中
+---
+A B C D
+A E E D
+F E E G
+F H H I
+# # J I
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.256
+---
+7系列:四面楚歌
+---
+# A B #
+C D D E
+C F F E
+G F F H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.257
+---
+7系列:步履维艰
+---
+A B B C
+D B B #
+D E F F
+G E H I
+G J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.258
+---
+7系列:自动报时
+---
+# A B C
+D A E E
+F G E E
+F G H H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.259
+---
+一心一意
+---
+A A B B
+C D E E
+C F E E
+G H I J
+G # # K
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.260
+---
+上下镜像
+---
+A B B #
+C B B #
+D D E E
+F F G G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.261
+---
+首尾互换(上)
+---
+A B B #
+C B B #
+D D E F
+G H I J
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.262
+---
+首尾互换(下)
+---
+A B B C
+D B B E
+D # # E
+F G H I
+F J J I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.263
+---
+众志成城
+---
+A B C C
+A D D E
+F D D G
+F H # I
+# H J I
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.264
+---
+孔融让梨
+---
+A B B #
+C B B #
+D D E E
+F G H H
+I G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.265
+---
+仙人推磨
+---
+A B B #
+C B B D
+E F F G
+E # H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.266
+---
+陆绩怀橘
+---
+A B C D
+A E E D
+F E E G
+F H H G
+I J # #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.267
+---
+曹冲称象
+---
+A A B C
+A A D C
+# E D F
+# G G H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.268
+---
+千里走单骑
+---
+# A A #
+B A A C
+D E F G
+H E I J
+K L L M
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.269
+---
+三英战吕布
+---
+A A # B
+A A C B
+D E E F
+G H I J
+K H I #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.270
+---
+桃园三结义
+---
+# A A #
+B A A C
+B D D C
+E F G H
+I J K L
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.271
+---
+孔明扇
+---
+A B B C
+A D D E
+F D D E
+F G H I
+# J H #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.272
+---
+步步高之“义放曹操”
+---
+A A B B
+C D B B
+C E F F
+# E G H
+I # G J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.273
+---
+异位同步(上)
+---
+A # B C
+D D B C
+D D # E
+F F G E
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.274
+---
+异位同步(下)
+---
+A # # B
+C C D B
+C C D E
+F F G E
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.275
+---
+自成镜像
+---
+A B B #
+C B B #
+D D E E
+F G H I
+F G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.276
+---
+孔明扇2
+---
+A B B C
+A D D E
+F D D E
+F G H I
+# G J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.277
+---
+大意失荆州
+---
+# A B C
+D A # C
+D E E F
+G E E H
+G I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.278
+---
+鞠躬尽瘁
+---
+A B C D
+A B E E
+F G E E
+H I I J
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.279
+---
+木牛流马
+---
+A B B C
+A B B D
+E E F D
+G # H I
+G # J I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.280
+---
+诸葛八阵
+---
+A B B #
+A B B C
+D D E F
+G # E F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.281
+---
+上下求索
+---
+# A A B
+C A A B
+C D D E
+# F G E
+H F I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.282
+---
+浪迹天涯
+---
+A A B B
+C D B B
+C D E E
+F F G H
+I I # #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.283
+---
+花间一壶酒
+---
+# A B #
+C C D D
+E F F G
+E F F G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.284
+---
+不惑之前
+---
+A B C D
+E E F G
+E E F G
+H H I J
+# # I J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.285
+---
+不惑之后
+---
+# # A B
+C C A B
+D D E F
+D D E F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.286
+---
+双兵争锋
+---
+A A B B
+A A C D
+E F # D
+E G H H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.287
+---
+高位分歧
+---
+A A # #
+A A B C
+D E F C
+D G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.288
+---
+形近神似(上)
+---
+A A B B
+A A C C
+D E F G
+D H H G
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.289
+---
+形近神似(下)
+---
+A A B B
+A A C C
+D E F G
+D # # G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.290
+---
+旋转砝码
+---
+A B C C
+# # C C
+D E F F
+D G G H
+I I J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.291
+---
+坦克
+---
+# A A #
+B A A C
+D E E F
+D G G F
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.292
+---
+孔明扇3
+---
+A B B C
+D E E C
+D E E F
+G H H F
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.293
+---
+莱希
+---
+A A B B
+C C B B
+D D E E
+F G H #
+# I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.294
+---
+米拉
+---
+A A B B
+C C B B
+D D E #
+F G G #
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.295
+---
+形同神异
+---
+A A B B
+C C B B
+D E F G
+H E I G
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.296
+---
+神在内涵
+---
+A A B B
+A A C C
+D D E F
+# G H H
+# G I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.297
+---
+面具
+---
+A B B C
+A B B C
+D E F G
+H E F I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.298
+---
+龙凤三胞（兄长）
+---
+# A B #
+C C D E
+F F G G
+F F H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.299
+---
+龙凤三胞（大妹）
+---
+A A B C
+D D B C
+D D E E
+F F G H
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.300
+---
+龙凤三胞（小妹）
+---
+A A B C
+D D B C
+D D E E
+F F G H
+I J # #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.301
+---
+小鬼难缠
+---
+A B C C
+A D C C
+E E F G
+H I I J
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.302
+---
+佳人梳妆（佳人）
+---
+# # A A
+B B C D
+B B C E
+F G H E
+I G H J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.303
+---
+佳人梳妆（镜像）
+---
+A B C D
+E B C F
+G G H F
+G G H I
+# # J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.304
+---
+双头俩尾
+---
+A A B #
+C C B #
+C C D E
+F G D H
+I G J H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.305
+---
+分兵作战
+---
+A B C C
+D D E E
+F G G #
+F G G #
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.306
+---
+闪展腾挪
+---
+A B # #
+C B D D
+E E F F
+E E G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.307
+---
+丫形优解
+---
+A A B B
+C C D D
+C C E F
+G # H H
+G I # J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.308
+---
+一颠快两步（上）
+---
+# A B B
+# A C C
+D D E F
+D D G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.309
+---
+一颠快两步（下）
+---
+A A B B
+C C D E
+C C F G
+# H I I
+# H J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.310
+---
+逃出来啦(上)
+---
+A A B B
+C # # D
+C E E F
+G E E H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.311
+---
+逃出来啦(下)
+---
+A A B B
+C D D E
+F D D G
+F # # H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.312
+---
+一颠快三步(上)
+---
+A A B B
+C C D E
+F G G H
+# G G #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.313
+---
+一颠快三步(下)
+---
+A A B B
+# C C #
+D C C E
+F F G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.314
+---
+未卜先知
+---
+# A A #
+B A A C
+D E F C
+D G F H
+I G J K
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.315
+---
+困兽犹斗
+---
+A A B C
+A A D D
+E E F #
+G G F H
+I J J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.316
+---
+六将之近在咫尺
+---
+A B # #
+C C D D
+E E F F
+G G H H
+G G I I
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.317
+---
+H形优解
+---
+A A B #
+A A # C
+D E E C
+D F F G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.318
+---
+扇壶一体(扇)
+---
+A B C C
+A B D D
+E F D D
+G F H H
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.319
+---
+扇壶一体(壶)
+---
+# A B #
+C D E E
+F D G G
+H I G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.320
+---
+将士一心
+---
+A A B #
+A A B C
+D E F F
+G H H I
+G J J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.321
+---
+人形优解
+---
+A A B #
+A A B C
+D # E C
+F G G H
+F I J H
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.322
+---
+手形优解
+---
+A B C C
+A B C C
+D # E F
+G # H F
+G I I J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.323
+---
+倒影丫解（上）
+---
+A A B B
+A A C D
+E F C G
+H I I G
+H # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.324
+---
+倒影丫解（下）
+---
+A # # B
+A C C D
+E F G D
+H H G I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.325
+---
+倒影等优（上）
+---
+A A B B
+A A C D
+E E C F
+G H H F
+I # # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.326
+---
+倒影等优（下）
+---
+A # # B
+C D D E
+F F G E
+H H G I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.327
+---
+同步倒影（上）
+---
+A A B B
+A A C D
+E F G D
+H I G J
+# I # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.328
+---
+同步倒影（下）
+---
+# A # B
+C A D B
+E F D G
+H H I G
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.329
+---
+活眼倒影(上)
+---
+A B C D
+A E F F
+G E # H
+G # I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.330
+---
+活眼倒影(下)
+---
+A A B B
+C # B B
+C D # E
+F D G G
+F H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.331
+---
+触角优解(左)
+---
+# A B #
+C A B D
+E F F G
+E H I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.332
+---
+触角优解(右)
+---
+A A B B
+C D B B
+C E E F
+G H I J
+# H I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.333
+---
+字母糸列A
+---
+A B C D
+E B F F
+E # F F
+G H H I
+G # J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.334
+---
+字母系列C
+---
+A B C C
+D E C C
+D F F #
+G H I #
+G H J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.335
+---
+字母系列F
+---
+A B C C
+A D C C
+E D F #
+G H I I
+G J J #
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.336
+---
+字母系列H
+---
+A # B C
+D D E C
+D D F G
+H H F G
+I # J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.337
+---
+字母系列I
+---
+A B B C
+A B B D
+# E E #
+F G H I
+F G J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.338
+---
+字母系列L
+---
+A A B #
+A A C #
+D E E F
+G H H I
+G J J I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.339
+---
+字母系列N
+---
+A B # C
+D D E C
+D D F G
+H H F G
+I # J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.340
+---
+字母系列P
+---
+A B B C
+D B B E
+D # F F
+G G H I
+J J H #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.341
+---
+字母系列T
+---
+A B C D
+A E F F
+G E F F
+G H H I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.342
+---
+字母系列U
+---
+A # B C
+D # E E
+D F E E
+G F H H
+G I I J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.343
+---
+古稀倒影(上)
+---
+A B B #
+C D E E
+C D E E
+F G H H
+I G J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.344
+---
+古稀倒影(下)
+---
+A B C #
+D B E E
+F G H H
+F G H H
+I J J #
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.345
+---
+形神颠倒(上)
+---
+A B B #
+A C D D
+E F D D
+G H I I
+G H J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.346
+---
+形神颠倒(下)
+---
+A B C #
+A B D D
+E F G G
+H I G G
+H J J #
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.347
+---
+形颠神倒(上)
+---
+A A B B
+# C B B
+D C E F
+G H I F
+G J I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.348
+---
+形颠神倒(下)
+---
+A B C #
+A D C E
+F G H E
+# G I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.349
+---
+凤凰倒影(凤)
+---
+A A B #
+C C D E
+C C D E
+F G H I
+F J H #
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.350
+---
+凤凰倒影(凰)
+---
+A B C #
+A D C E
+F F G H
+F F G H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.351
+---
+互生优解
+---
+A B C C
+A # C C
+D E F F
+# E G H
+I J G H
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.352
+---
+重链优解
+---
+A B C C
+# D C C
+# D E E
+F F G H
+I I G J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.353
+---
+电阻优解
+---
+A B B C
+A D D E
+F D D E
+G G H H
+# I J #
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.354
+---
+平行优解
+---
+A B B #
+C B B #
+C D D E
+F G H I
+F J J I
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.355
+---
+麒麟倒影(麒)
+---
+A A B #
+C D E E
+F D G G
+F H G G
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.356
+---
+麒麟倒影(麟)
+---
+A A B #
+C D E E
+C F E E
+G F H H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.357
+---
+合兵一处
+---
+A A B C
+D D E E
+F G # #
+H G I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.358
+---
+兵分二路
+---
+A A B #
+C D E E
+C F G #
+H H I I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.359
+---
+貔貅倒影(貔)
+---
+A B B C
+D E # F
+D G # F
+H G I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.360
+---
+貔貅倒影(貅)
+---
+A A B B
+C D B B
+E D # F
+E G # F
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.361
+---
+同步堂亲(兄)
+---
+A A B C
+A A B #
+D E E F
+D G H F
+I G # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.362
+---
+同步堂亲(弟)
+---
+A A B C
+A A B #
+D E E F
+G H I F
+G H # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.363
+---
+分久必合
+---
+A A B C
+A A D E
+F F D E
+G H H I
+J # # I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.364
+---
+合久必分
+---
+A A # B
+A A C B
+D E F G
+H H F I
+# J J I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.365
+---
+日月同辉
+---
+# A # B
+C D E B
+F D E G
+H H I I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.366
+---
+曹操划小圈
+---
+A B C #
+A B D #
+E E F G
+H H F I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.367
+---
+虎踪
+---
+A B B #
+A C D D
+E F F G
+H F F I
+H # J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.368
+---
+狼影
+---
+A # B B
+A C C D
+E C C F
+G H I I
+G J J #
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.369
+---
+轅門射戟Ａ
+---
+A B B C
+D D E C
+F G H H
+# G H H
+I I J #
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.370
+---
+轅門射戟Ｂ
+---
+A B B C
+D E F F
+D G G #
+H G G I
+# J J I
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.371
+---
+以逸待劳
+---
+A B B C
+A B B C
+D D E E
+F G H I
+F # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.372
+---
+雪拥蓝关
+---
+A A B B
+# C B B
+D E F G
+# E H G
+I I H J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.373
+---
+云横秦岭
+---
+A A B C
+# D B E
+F D G E
+# H I I
+J J I I
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.374
+---
+八阵图
+---
+A B B C
+A B B D
+E F F D
+G H H I
+G # # J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.375
+---
+兵据曹营
+---
+A B C D
+A E F D
+G H H #
+G H H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.376
+---
+山穷水尽
+---
+A B B C
+A B B C
+D D E F
+G H I J
+# H I #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.377
+---
+上屋抽梯
+---
+A B B C
+A B B D
+E E F G
+H I I G
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.378
+---
+抽梁断柱
+---
+A B B C
+D B B E
+F G G H
+I I J H
+# K K #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.379
+---
+有去有回
+---
+A B C D
+E F G G
+E F H H
+I I J J
+I I # #
+---
+* * * *
+* * * *
+* * * *
+* I I *
+* I I *
+===
+No.380
+---
+能上能下
+---
+A B C #
+D B C E
+F # G G
+H H I I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.381
+---
+火烧连营
+---
+A # B #
+A C D E
+F C G E
+H H G I
+H H J J
+---
+* * * *
+* * * *
+* * * *
+* H H *
+* H H *
+===
+No.382
+---
+横行霸道
+---
+# A A #
+B A A C
+D E F G
+H E F I
+H J K I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.383
+---
+睡狮苏醒
+---
+A B C C
+D E C C
+F E G G
+F H I J
+# H # J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.384
+---
+側面虎
+---
+# A B C
+D D E C
+D D E F
+# G H F
+I I H J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.385
+---
+胸有朝陽
+---
+A A B C
+A A # C
+D E E F
+G H # F
+G H I J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.386
+---
+江村夕照
+---
+A # B B
+A C B B
+D E F #
+D E F G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.387
+---
+曲水流觴
+---
+A B C C
+A B C C
+D E F G
+D H I I
+J H # #
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.388
+---
+檐浮旭日
+---
+A A # B
+A A C B
+D E F F
+D E # G
+H I J G
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.389
+---
+三一奇阵
+---
+A A # B
+A A C B
+D E F F
+# G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.390
+---
+流水行雲
+---
+A A B #
+A A B #
+C D E E
+F G H I
+J J H I
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.391
+---
+運兵陰平
+---
+A B B C
+D B B E
+F F # E
+G # H H
+G I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.392
+---
+野馬分鬃
+---
+# A B B
+C A B B
+# D D E
+F F G E
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.393
+---
+寄人籬下
+---
+# A B B
+C A B B
+D E F F
+G G H I
+J J H #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.394
+---
+披甲持螯
+---
+A # # B
+A C C B
+D C C E
+F F G G
+H I I J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.395
+---
+居中斡旋
+---
+# A A #
+B A A C
+D E E F
+D G G F
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.396
+---
+開到茶蘼
+---
+A A # B
+A A C B
+D E F F
+G H H #
+G I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.397
+---
+小孤雁
+---
+# # A A
+B B A A
+C D D E
+C F G G
+H I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.398
+---
+漩涡乍现
+---
+A B B C
+D E F F
+D # F F
+G G H #
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* F F *
+* F F *
+===
+No.399
+---
+漩涡乍现2
+---
+A B C C
+A D D #
+# D D E
+F F G H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.400
+---
+兵不厌走
+---
+A A B B
+# C B B
+D C # E
+F G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.401
+---
+倒影胡马
+---
+A B B C
+D D E E
+F G G H
+I G G #
+I # J J
+---
+* * * *
+* * * *
+* * * *
+* G G *
+* G G *
+===
+No.402
+---
+首居中道
+---
+# A B B
+C A B B
+D E F F
+D E G #
+H I G J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.403
+---
+小旋風
+---
+A B B C
+D E E F
+G E E F
+G H I J
+# H # J
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.404
+---
+小旋風Ⅰ
+---
+A A B C
+D E E C
+F E E G
+H I J G
+H # J #
+---
+* * * *
+* * * *
+* * * *
+* E E *
+* E E *
+===
+No.405
+---
+小旋風Ⅱ
+---
+A B C C
+A D D #
+E D D F
+E # G F
+H I G J
+---
+* * * *
+* * * *
+* * * *
+* D D *
+* D D *
+===
+No.406
+---
+身先士卒
+---
+A A B B
+C C B B
+D D E E
+F F G H
+I J # #
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.407
+---
+兵威将广
+---
+A A B C
+A A D E
+F F G G
+H H I I
+# J J #
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.408
+---
+高枕无忧
+---
+A A B B
+C C D E
+C C D E
+F F G H
+I J # #
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.409
+---
+海晏河清
+---
+A A B B
+C D B B
+C D E E
+F # # G
+H H I J
+---
+* * * *
+* * * *
+* * * *
+* B B *
+* B B *
+===
+No.410
+---
+旭日东升2
+---
+# A B #
+C C D E
+C C D F
+G G H H
+I I J J
+---
+* * * *
+* * * *
+* * * *
+* C C *
+* C C *
+===
+No.411
+---
+横骆驼
+---
+A A B C
+A A D C
+E E D F
+# G H H
+I I # J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *
+===
+No.412
+---
+圈套
+---
+A A # B
+A A # C
+D D E F
+G H H F
+G I J J
+---
+* * * *
+* * * *
+* * * *
+* A A *
+* A A *

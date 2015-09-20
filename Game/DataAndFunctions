@@ -1,0 +1,26 @@
+names = {"\:66f9\:64cd", "\:5173\:7fbd", "\:5f20\:98de", "\:9a6c\:8d85", 
+     "\:8d75\:4e91", "\:9ec4\:5fe0", "\:53521", "\:53522", "\:53523", 
+     "\:53524"}
+ 
+imgFiles = {"F:\\GitHub\\Klotski\\Game\\img\\\:66f9\:64cd.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:5173\:7fbd.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:5f20\:98de.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:9a6c\:8d85.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:8d75\:4e91.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:9ec4\:5fe0.png", 
+     "F:\\GitHub\\Klotski\\Game\\img\\\:5352.png"}
+ 
+imgSize = {{200, 200}, {200, 100}, {100, 200}, {100, 200}, {100, 200}, 
+     {100, 200}, {100, 100}, {100, 100}, {100, 100}, {100, 100}}
+ 
+LDPos = {{101, 301}, {101, 201}, {1, 301}, {301, 301}, {1, 101}, {301, 101}, 
+     {1, 1}, {101, 101}, {201, 101}, {301, 1}}
+ 
+moves = {{100, 0}, {0, 100}, {-100, 0}, {0, -100}}
+ 
+area[pics_, n_] := Module[{pics2 = pics, re = {}, lsArea = 0}, 
+     Do[pics2 = pics; pics2[[n,2]] = pics2[[n,2]] + moves[[k]]; 
+        lsArea = RegionMeasure[RegionIntersection[Rectangle[{1, 1}, 
+            {401, 501}], RegionUnion @@ Table[Rectangle[pics2[[kk,2]], 
+              pics2[[kk,2]] + pics2[[kk,4]]], {kk, 10}]]]; 
+        If[lsArea == 180000, AppendTo[re, moves[[k]]]]; , {k, 4}]; Return[re]]

@@ -1,0 +1,3 @@
+A A B # A A C D E F G H I J K L M N O #:B>R L>D H>D G>R F>R E>R C>U F>U E>R A>D C>L C>L F>U F>L E>U E>U K>U K>U J>R J>U I>R I>R A>D K>L K>L J>U J>L I>U I>U O>U O>U N>R N>U M>R M>R A>D O>L O>L N>U N>L M>U M>U A>R
+A A B # A A C D E F G H I J K L M N O #:B>R L>D H>D D>D C>R A>R E>U E>U F>L F>U G>L G>L A>D E>R B>L C>U D>U H>U K>R F>U G>U I>U J>L A>D G>R D>L H>U K>U L>U O>R I>U J>U M>U N>L A>D
+A A B # A A C D E F G H I J K L M N O #:B>R L>D H>D D>D C>R A>R E>U E>U F>L F>U G>L G>L A>D E>R B>L C>U D>U H>U K>R F>U G>U I>U J>L A>D D>L D>L H>U H>L K>U K>U A>R N>U N>U O>L O>U L>L L>L A>D N>R N>R O>U O>R L>U L>U A>L
