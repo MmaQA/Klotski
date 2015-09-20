@@ -1,6 +1,6 @@
 # 华容道
 ## 0、样品
-[](img/game.png)
+![](img/game.png)
 
 ## 1、文件介绍
 

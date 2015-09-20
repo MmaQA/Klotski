@@ -1,10 +1,10 @@
 # 华容道
 ## 0、样品
 ### 0.1、横刀立马
-[](SolveData/SolveHDLM.gif)
+![](SolveData/SolveHDLM.gif)
 
 ### 0.2、自定义
-[](SolveData/SolveFree.gif)
+![](SolveData/SolveFree.gif)
 
 ## 1、文件介绍
 
